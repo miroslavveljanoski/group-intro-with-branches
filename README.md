@@ -8,4 +8,4 @@ I'm really glad to introduce my group. This website is made with branches for ea
 - [Yana](./yana.md)
 - [Murielle](./murielle.md)
 - [Feruz](./feruz.md)
-- Boam
+- [Boam](./boam.md)
