@@ -6,6 +6,6 @@ I'm really glad to introduce my group. This website is made with branches for ea
 
 - [Harun](./harun.md)
 - [Yana](./yana.md)
-- Murielle
+- [Murielle](./murielle.md)
 - Feruz
 - Boam
