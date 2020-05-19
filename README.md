@@ -4,7 +4,7 @@ The name of our group in HYF is **"Coding with the Sky Blue"**
 
 I'm really glad to introduce my group. This website is made with branches for each member of the group.
 
-- Harun
+- [Harun](./harun.md)
 - Yana
 - Murielle
 - Feruz
