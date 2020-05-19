@@ -7,5 +7,5 @@ I'm really glad to introduce my group. This website is made with branches for ea
 - [Harun](./harun.md)
 - [Yana](./yana.md)
 - [Murielle](./murielle.md)
-- Feruz
+- [Feruz](./feruz.md)
 - Boam
